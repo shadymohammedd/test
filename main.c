@@ -17,4 +17,9 @@ int main()
     fun(&x, &y);
 
     return 0;
+
 }
+
+body {
+	font-size:20px;
+}		
